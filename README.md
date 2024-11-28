@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Engineering i
    - A dynamic art gallery website enabling users to upload and manage artwork.  
    - Integrated a MySQL database for reliable image storage and metadata retrieval.  
 
-3. **[Smart Bank Organizer](https://github.com/saayjon/smart-bank-organizer)**  
+3. **[Smart Bank Organizer](https://www.youtube.com/watch?v=edP_jmhT7Bw&ab_channel=J-cieAlsisto)**  
    *C++, Eclipse*  
    - A banking application built with OOP concepts and a GUI for user interaction.  
    - Enhanced efficiency by organizing code into multiple reusable classes.  
