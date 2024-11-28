@@ -48,9 +48,6 @@ Welcome to my GitHub profile! I'm currently pursuing a Bachelor of Engineering i
 
 **Software Engineer - Operations Support**  
 *ACE Climatic Wind Tunnel | Jan 2024 - Present*  
-- Developed and deployed custom software applications to improve workflows across 4 R&D projects.  
-- Automated manual tasks, reducing data entry time by 30% through Python and SQLite tools.  
-- Built CI/CD pipelines using GitLab and Docker to optimize DevOps workflows.  
 
 ---
 
